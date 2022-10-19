@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js, AWS**
 
-- 📫 How to reach me **imamsulthoni.amd@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/imam-sulthoni**
 
 - 📄 Know about my experiences [soon](soon)
 
