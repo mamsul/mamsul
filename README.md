@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on FishLog
 
-- 🌱 I’m currently learning **React Js, AWS**
+- 🌱 I’m currently learning **Node js, Express js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/imam-sulthoni**
 
