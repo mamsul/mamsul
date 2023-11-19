@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imam Sulthoni</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on FishLog
+- 🔭 I’m currently working on "N/A"
 
 - 🌱 I’m currently learning **Node js, Express js**
 
