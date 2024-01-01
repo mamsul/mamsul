@@ -24,15 +24,12 @@ Over two years of experience in creating web apps using React.js, Next.js, Vue.j
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently looking for a new job.  
   
 
-- 🌱 I’m currently learning React Native  
-
-
-</td><td valign="top" width="50%">
+- 🌱 I’m currently learning React Native 
 
 
 
