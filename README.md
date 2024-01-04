@@ -15,7 +15,7 @@
 
 
 ### Glad to see you!  
-I’m a frontend developer from Indonesia. Being a Frontend Developer I'm happy and used to implementing various UI from figma, responsive, and often from scratch.
+I’m a frontend developer from Indonesia. Being a frontend developer makes me understand the importance of a proper system interface for each different market so that the application can be used optimally and easily understood by users, I also became happy and accustomed to implementing various UI designs from Figma, responsive, and often from scratch.
 
 Over two years of experience in creating web apps using React.js, Next.js, Vue.js, Nuxt.js, and other frameworks and libraries, and also integrated data with REST API and GraphQl, and collaborated with teams using agile methodologies.  
   
