@@ -24,21 +24,6 @@ Over two years of experience in creating web apps using React.js, Next.js, Vue.j
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🔭 I’m currently looking for a new job.  
-  
-
-- 🌱 I’m currently learning React Native 
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
