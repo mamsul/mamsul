@@ -52,7 +52,7 @@ Over two years of experience in creating web apps using React.js, Next.js, Vue.j
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mamsul&&style=flat-square)  
+![Visitors counter](https://komarev.com/ghpvc/?username=mamsul&&style=flat-square)  
   
 
 <br/>
